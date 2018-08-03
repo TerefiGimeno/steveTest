@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3065307846",
+    "hash" : "0",
     "id" : "840B1BF7",
-    "lastKnownWriteTime" : 1533308363,
-    "last_content_update" : 1533308363526,
+    "lastKnownWriteTime" : 1533308548,
+    "last_content_update" : 1533308548237,
     "path" : "C:/repo/steve/.gitignore",
     "project_path" : ".gitignore",
     "properties" : {
-        "cursorPosition" : "4,7",
+        "cursorPosition" : "3,11",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
